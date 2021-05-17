@@ -1,10 +1,10 @@
 # PoC
 
-Netcore G1 and N3 devices have unauthorized access vulnerabilities. The attacker can access http://ip/webnoauth/getmymac.cgi without authorization, leaking the mac address of the router
+Netcore G1 and N3 devices have unauthorized access vulnerabilities. The attacker can access http://ip/webnoauth/router_function_list.cgi without authorization, leaking the mac address of the router
 
-#### http://ip/webnoauth/getmymac.cgi
+#### http://ip/webnoauth/router_function_list.cgi
 
-![image-20210508172708509](Unauthorized access in webnoauth-getmymac.cgi, resulting in the disclosure of the mac address.assets/image-20210508172708509.png)
+![image-20210508221810709](Unauthorized access in webnoauthrouter_function_list.cgi, resulting in the disclosure of the function info.assets/image-20210508221810709.png)
 
 
 
@@ -26,4 +26,4 @@ Zhen-hua Wang
 
 En-Ze Wang
 
-Wei Xie
+Wei Xies

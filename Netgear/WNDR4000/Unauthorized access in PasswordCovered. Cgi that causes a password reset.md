@@ -4,7 +4,7 @@ There is an unauthorized access vulnerability in Netgear -WNDR4000 router. Attac
 
 #### http://ip/passwordrecovered.cgi
 
-![image-20210508112255177](Unauthorized access in PasswordCovered. Cgi that causes a password reset.assets/image-20210508112255177.png)
+![image-20210508112255177](./image-20210508112255177.png)
 
 
 

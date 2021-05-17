@@ -4,9 +4,9 @@ The Netgear-WNDR4000 router has an unauthorized access vulnerability. The attack
 
 #### http://ip/securityquestions.cgi
 
-![image-20210508113452781](Unauthorized access in securityquestions.cgi.assets/image-20210508113452781.png)
+![image-20210508113452781](./image-20210508113452781.png)
 
-![image-20210508113457265](Unauthorized access in securityquestions.cgi.assets/image-20210508113457265.png)
+![image-20210508113457265](./image-20210508113457265.png)
 
 
 

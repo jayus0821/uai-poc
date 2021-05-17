@@ -4,7 +4,7 @@ Netcore G1 and N3 devices have unauthorized access vulnerabilities. The attacker
 
 #### http://ip/webnoauth/router_model.cgi
 
-![image-20210508222208543](Unauthorized access in webnoauthrouter_model.cgi, resulting in the disclosure of the mac address and firmware version.assets/image-20210508222208543.png)
+![image-20210508222208543](./image-20210508222208543.png)
 
 
 

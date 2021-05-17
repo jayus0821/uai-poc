@@ -4,7 +4,7 @@ There is an unauthorized access vulnerability in Qihu360-F5C router. Attackers c
 
 #### http://ip/webnoauth/model.cgi
 
-![image-20210508223052254](Unauthorized access in webnoauthmodel.cgi that resulted in the ssid and mac address, firmware version to be leaked .assets/image-20210508223052254.png)
+![image-20210508223052254](./image-20210508223052254.png)
 
 
 

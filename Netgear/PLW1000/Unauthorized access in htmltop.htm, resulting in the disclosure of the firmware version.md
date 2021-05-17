@@ -4,7 +4,7 @@ The Netgear-PLW1000 router has an unauthorized access vulnerability. The attacke
 
 #### http://ip/html/top.htm
 
-![image-20210508115422539](Unauthorized access in htmltop.htm, resulting in the disclosure of the firmware version.assets/image-20210508115422539.png)
+![image-20210508115422539](./image-20210508115422539.png)
 
 
 

@@ -4,7 +4,7 @@ Netcore G1 and N3 devices have unauthorized access vulnerabilities. The attacker
 
 #### http://ip/webnoauth/router_function_list.cgi
 
-![image-20210508221810709](Unauthorized access in webnoauthrouter_function_list.cgi, resulting in the disclosure of the function info.assets/image-20210508221810709.png)
+![image-20210508221810709](./image-20210508221810709.png)
 
 
 

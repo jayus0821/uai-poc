@@ -4,7 +4,7 @@ There is an unauthorized access vulnerability in Qihu360-F5C router. Attackers c
 
 #### http://ip/webnoauth/router_function_list.cgi
 
-![image-20210508222817203](Unauthorized access in webnoauthrouter_function_list.cgi that resulted in the version information of each module of the firmware system to be leaked.assets/image-20210508222817203.png)
+![image-20210508222817203](./image-20210508222817203.png)
 
 
 

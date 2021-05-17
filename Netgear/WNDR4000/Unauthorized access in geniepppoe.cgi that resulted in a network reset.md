@@ -4,7 +4,7 @@ There is an unauthorized access vulnerability in Netgear -WNDR4000 router. Attac
 
 #### http://ip/geniepppoe.cgi 
 
-![image-20210508111038201](Unauthorized access in geniepppoe.cgi.assets/image-20210508111038201.png)
+![image-20210508111038201](./image-20210508111038201.png)
 
 
 

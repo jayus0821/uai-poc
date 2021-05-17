@@ -1,6 +1,6 @@
 # PoC
 
-There is an unauthorized access vulnerability in Qihu360-F5C router. Attackers can access http://ip/webnoauth/router_function_list.cgi without authorization, which makes the router reapply Internet Settings and cause all users to drop the line
+There is an unauthorized access vulnerability in Qihu360-F5C router. Attackers can access http://ip/webnoauth/router_function_list.cgi without authorization, which result in the version information of each module of the firmware system to be leaked
 
 #### http://ip/webnoauth/router_function_list.cgi
 
